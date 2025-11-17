@@ -1,0 +1,33 @@
+{
+  "name": "vapor",
+  "displayName": "Vapor Theme",
+  "description": "A collection of electric dark themes inspired by Synthwave and Outrun aesthetics, featuring vibrant purple, green, and blue tones in two distinct contrast variations.",
+  "version": "0.0.2",
+  "publisher": "maegima",
+  "repository": "https://github.com/maegima/vapor-theme-vscode",
+  "icon": "icon.jpg",
+  "galleryBanner": {
+    "color": "#0c0a20",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vapor Pulse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vapor-pulse-theme.json"
+      },
+      {
+        "label": "Vapor Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vapor-abyss-theme.json"
+      }
+    ]
+  }
+}
