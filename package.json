@@ -21,12 +21,12 @@
       {
         "label": "Vapor Pulse",
         "uiTheme": "vs-dark",
-        "path": "./themes/vapor-pulse-theme.json"
+        "path": "./themes/vapor-pulse-color-theme.json"
       },
       {
         "label": "Vapor Abyss",
         "uiTheme": "vs-dark",
-        "path": "./themes/vapor-abyss-theme.json"
+        "path": "./themes/vapor-abyss-color-theme.json"
       }
     ]
   }
