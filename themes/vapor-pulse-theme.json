@@ -520,8 +520,8 @@
         "foreground": "#f2f3f7",
         "descriptionForeground": "#f2f3f7",
         // Buttons
-        "button.background": "#1ea8fc",
-        "button.hoverBackground": "#1ea8fc",
+        "button.background": "#0033cc",
+        "button.hoverBackground": "#314dde",
         "button.foreground": "#f2f3f7",
         // Progress Bar
         "progressBar.background": "#ff2e97",
